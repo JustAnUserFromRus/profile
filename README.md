@@ -11,3 +11,5 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnUserFromRus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
