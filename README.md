@@ -5,3 +5,5 @@
 Привет, просто профиль?
 
 🌏 Я из Чебоксар, меня зовут Даниил.
+
+https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
