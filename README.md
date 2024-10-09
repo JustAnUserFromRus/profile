@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/En8fsYde6cqvhYBnAb/giphy.gif?cid=82a1493bucuc9m7ypgityxqb6mxl2k8olszbxpxnlyu6922w&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
-Привет, просто профиль?
+Привет! 
 
 🌏 Я из Чебоксар, меня зовут Даниил.
 
